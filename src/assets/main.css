@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy');
+
+body{
+    font-family: 'Gilroy', sans-serif;
+    box-sizing: border-box;
+}
+
+#app{
+    position: relative;
+}
